@@ -1,9 +1,9 @@
 # Path_finding_visualizer
 This program helps to visualize various path finding algorithms such as
 
-1.A* algorithm
-2.Dijkstras algorithm
-3.Breadth first search algorithm
+1. A* algorithm
+1. Dijkstras algorithm
+1. Breadth first search algorithm
 
 it allows you to pick a start and ending position and helps you visualize the process of finding the shortest path using various algorithm
 
@@ -13,4 +13,6 @@ it allows you to pick a start and ending position and helps you visualize the pr
 - Pygame
 
 # Algorithms
-# A-star
+##A-star
+(/gifs/Dijkstras.gif)
+
