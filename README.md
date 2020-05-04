@@ -5,7 +5,7 @@ This program helps to visualize various path finding algorithms such as
 1. Dijkstras algorithm
 1. Breadth first search algorithm
 
-it allows you to pick a start and ending position and helps you visualize the process of finding the shortest path using various algorithm
+it allows you to pick a starting and ending position and helps you visualize the process of finding the shortest path using various algorithms
 
 # Requirements
 - Python 3.x
