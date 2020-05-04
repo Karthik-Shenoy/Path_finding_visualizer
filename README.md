@@ -14,10 +14,10 @@ it allows you to pick a starting and ending position and helps you visualize the
 
 # Algorithms
 ## A-star
-![A_star](/gifs/A_star.gif)
+![A_star](/gifs/A_sta.gif)
 
 ## Dijkstras
-![Dijkstras](/gifs/Dijkstras.gif)
+![Dijkstras](/gifs/Dijkstra.gif)
 
 ## Breadth-First-search
 ![BFS](/gifs/BF.gif)
