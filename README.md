@@ -13,6 +13,7 @@ it allows you to pick a start and ending position and helps you visualize the pr
 - Pygame
 
 # Algorithms
-##A-star
-(/gifs/Dijkstras.gif)
+## A-star
+![GitHub Logo](/gifs/Dijkstras.png)
+Format: ![Alt Text](url)
 
