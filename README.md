@@ -20,5 +20,5 @@ it allows you to pick a starting and ending position and helps you visualize the
 ![Dijkstras](/gifs/Dijkstras.gif)
 
 ## Breadth-First-search
-![BFS](/gifs/BFS.gif)
+![BFS](/gifs/BF.gif)
 
