@@ -14,11 +14,11 @@ it allows you to pick a start and ending position and helps you visualize the pr
 
 # Algorithms
 ## A-star
-![GitHub Logo](/gifs/A_star.gif)
+![A_star](/gifs/A_star.gif)
 
 ## Dijkstras
-![GitHub Logo](/gifs/Dijkstras.gif)
+![Dijkstras](/gifs/Dijkstras.gif)
 
 ## Breadth-First-search
-![GitHub Logo](/gifs/Breadth first search.gif)
+![BFS](/gifs/Breadth first search.gif)
 
